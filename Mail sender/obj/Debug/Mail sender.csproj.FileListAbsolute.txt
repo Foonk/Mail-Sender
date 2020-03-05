@@ -1,0 +1,13 @@
+C:\Users\Vladimir Fedunov\DEV\Mail sender\Mail sender\bin\Debug\Mail sender.exe.config
+C:\Users\Vladimir Fedunov\DEV\Mail sender\Mail sender\bin\Debug\Mail sender.exe
+C:\Users\Vladimir Fedunov\DEV\Mail sender\Mail sender\bin\Debug\Mail sender.pdb
+C:\Users\Vladimir Fedunov\DEV\Mail sender\Mail sender\obj\Debug\Mail sender.csprojAssemblyReference.cache
+C:\Users\Vladimir Fedunov\DEV\Mail sender\Mail sender\obj\Debug\Mail_sender.Form1.resources
+C:\Users\Vladimir Fedunov\DEV\Mail sender\Mail sender\obj\Debug\Mail_sender.Properties.Resources.resources
+C:\Users\Vladimir Fedunov\DEV\Mail sender\Mail sender\obj\Debug\Mail sender.csproj.GenerateResource.cache
+C:\Users\Vladimir Fedunov\DEV\Mail sender\Mail sender\obj\Debug\Mail sender.exe
+C:\Users\Vladimir Fedunov\DEV\Mail sender\Mail sender\obj\Debug\Mail sender.pdb
+C:\Users\Vladimir Fedunov\DEV\Mail sender\Mail sender\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Vladimir Fedunov\DEV\Mail sender\Mail sender\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Vladimir Fedunov\DEV\Mail sender\Mail sender\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Vladimir Fedunov\DEV\Mail sender\Mail sender\obj\Debug\Mail sender.csproj.CopyComplete
